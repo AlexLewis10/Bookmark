@@ -7,11 +7,11 @@
           null,
           1,
           1,
-          1,
+          0,
           null,
           null,
           1,
-          1,
+          0,
           null,
           null,
           null,
@@ -19,12 +19,23 @@
           null
         ]
       },
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Bookmark/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Bookmark/spec/features/test_bookmark_spec.rb": {
         "lines": [
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
@@ -33,13 +44,13 @@
         "lines": [
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
       }
     },
-    "timestamp": 1586181968
+    "timestamp": 1586182200
   }
 }
