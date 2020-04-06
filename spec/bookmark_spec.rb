@@ -1,8 +1,8 @@
-require 'bookmarks'
+require 'bookmark'
 
-describe Bookmarks do
+describe Bookmark do
 
-  it 'has bookmarks' do
+  it 'has bookmark' do
     expect(subject.all).to include "www.google.co.uk"
   end
 
