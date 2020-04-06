@@ -1,0 +1,30 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/Alex/Documents/Makers/week4/bookmark/bookmark.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/Alex/Documents/Makers/week4/bookmark/spec/features/test_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1586180903
+  }
+}
