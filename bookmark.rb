@@ -2,7 +2,7 @@ require 'sinatra/base'
 
 class Bookmark < Sinatra::Base
   get '/' do
-    "Hello world!"
+    erb :index
   end
 
   # start the server if ruby file executed directly
