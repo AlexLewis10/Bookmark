@@ -1,3 +1,10 @@
+### Database set up
+Connect to psql
+```
+CREATE DATABASE bookmark_manager;
+```
+Info for table set up in db/migrations/01_create_bookmarks_table.sql
+
 ```
 As a user,
 So I can see all of my bookmarks
@@ -27,7 +34,7 @@ As a user
 So that I can compare related bookmarks
 I want to be able to Filter bookmarks by tag
 
-As a maintainer of the system 
+As a maintainer of the system
 To protect the privacy of users
 I want Users to be restricted to managing only their own bookmarks
 ```
