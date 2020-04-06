@@ -1,11 +1,15 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Alex/Documents/Makers/week4/bookmark/bookmark.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Bookmark/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           null,
@@ -15,7 +19,17 @@
           null
         ]
       },
-      "/Users/Alex/Documents/Makers/week4/bookmark/spec/features/test_bookmark_spec.rb": {
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Bookmark/spec/features/test_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/FayeCarter/Documents/Makers_Academy/Week_4/Bookmark/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -26,6 +40,6 @@
         ]
       }
     },
-    "timestamp": 1586181421
+    "timestamp": 1586181968
   }
 }
